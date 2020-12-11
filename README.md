@@ -1,6 +1,6 @@
 # ENPM661-Final_Project
 Informative path planning for a collaborative robot system in precision agriculture applications.
-Original Authors : Pratap Tokekar, Joshua Vander Hook, David Mulla and Volkan Isle
+Original Authors : Pratap Tokekar, Joshua Vander Hook, David Mulla and Volkan Isler
 
 ### Dependencies
 * python3 and packages(numpy, matplotlib)
